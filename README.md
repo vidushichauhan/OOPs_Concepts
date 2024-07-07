@@ -1,6 +1,6 @@
-##OOPs Concepts in Java
+**OOPs Concepts in Java**
 
-#Table of Contents
+**Table of Contents**
 Introduction
 Concepts Covered
 Class and Object
