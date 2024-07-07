@@ -28,3 +28,4 @@ Abstraction is the concept of hiding the complex implementation details and show
 
 Encapsulation
 Encapsulation is the technique of making the fields in a class private and providing access to the fields via public methods. It is a protective barrier that keeps the data safe within the object and hides the implementation details.
+
