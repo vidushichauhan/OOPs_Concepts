@@ -1,8 +1,11 @@
 **OOPs Concepts in Java**
 
 **Table of Contents**
+
 Introduction
+
 Concepts Covered
+
 Class and Object
 Inheritance
 Polymorphism
